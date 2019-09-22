@@ -1,2 +1,2 @@
 # pythnine
-#deneme.github.io
+#pythnine.github.io
